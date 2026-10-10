@@ -46,11 +46,10 @@ These are exploratory questions based on the report's visible labels, not claims
 
 ## Key insights
 
-Add 2–4 insights only after reviewing the report values and understanding the dataset. For each insight, include the relevant metric, comparison or time period, and any caveat needed to interpret it.
-
-- [Add a verified insight]
-- [Add a verified insight]
-- [Add an optional verified insight]
+-**Overall streaming activity**: The dashboard's Streams KPI displays approximately 231 billion streams across the currently selected report data.
+-**Track coverage**: The report displays 443 tracks, with monthly summaries showing track counts and average streams.
+-**Daily streaming patterns**: Wednesday has the longest bar in the displayed daily-streams chart, while Thursday has the shortest. These comparisons reflect the current report view.
+-**Top-streamed tracks**: The report includes a Top 5 Most Streamed Tracks visual, with Shape of You appearing first in the displayed selection.
 
 ## How to open
 
